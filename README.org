@@ -2,3 +2,5 @@
 * items:
 1. PENCIL
 2. ERASER
+3. COPY 
+4. BOOKS
